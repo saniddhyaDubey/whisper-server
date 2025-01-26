@@ -30,7 +30,7 @@ This project is a FastAPI server wrapper around the OpenAI Whisper model for tra
 
 ### 1. Clone the Repository
 ```bash
-git clone [<repository-url>](https://github.com/saniddhyaDubey/whisper-server.git)
+git clone https://github.com/saniddhyaDubey/whisper-server.git
 cd whisper-server
 ```
 
